@@ -20,20 +20,26 @@ Here are a few screenshots of the application in action.
 ### 1. Home Page - Registration Form
 The main page features a clean, responsive registration form centered over a beautiful, fixed background.
 
-*(Replace with your screenshot)*
+
 `!Home Page`
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/054920db-31ac-41e7-b44b-df9920a9961d" />
+
 
 ### 2. Success Page
 After a successful submission, the user is greeted with a dynamic, animated confirmation page for a great user experience.
 
-*(Replace with your screenshot)*
+
 `!Success Page`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54ae6c35-b906-4e9b-b2f5-d55f123b9720" />
+
 
 ### 3. Dashboard
 The dashboard provides a summary of all user submissions in a clean table format, along with key statistics.
 
-*(Replace with your screenshot)*
+
 `!Dashboard`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e99e73b-a2c9-4a4d-b106-92e18296166c" />
 
 ---
 
